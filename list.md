@@ -277,7 +277,7 @@
 
 - [P2324 [SCOI2005]骑士精神](https://www.luogu.org/problem/P2324)
 - [P2534 [AHOI2012]铁盘整理](https://www.luogu.org/problem/P2534)
-
+- [UVA11212 编辑书稿 Editing a Book](https://www.luogu.org/problem/UVA11212)
 ## Part 4 动态规划
 
 > 动态规划是一种重要的思维方法，通过利用已有的子问题信息高效求出当前问题的最优解。
